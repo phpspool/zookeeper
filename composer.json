@@ -1,0 +1,15 @@
+{
+    "name": "phpspool/zookeeper",
+    "authors": [
+        {
+            "name": "phpspool",
+            "email": "yydick2001@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	    "psr-4": {
+		    "Spool\\Zookeeper\\": "src/"
+	    }
+    }
+}
